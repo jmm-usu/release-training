@@ -1,3 +1,3 @@
 # release-training
-## v1.0.1
-## annotated tag
+## v1.0.2
+## lightweight tag
